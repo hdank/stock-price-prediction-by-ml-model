@@ -102,11 +102,11 @@ pydeck==0.9.1
 Pygments==2.18.0
 PyMeeus==0.5.12
 pyparsing==3.1.2
-pypiwin32==223
+pywin32==223
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
 pytz==2024.1
-pypiwin32==223
+pywin32==223
 pywinpty==2.0.13
 PyYAML==6.0.1
 pyzmq==26.0.3
